@@ -1,5 +1,5 @@
 
-# Detecting Bursty Terms in Computer sSience
+# Detecting Bursty Terms in Computer Science
 *burst-detection*
 
 Research topics rise and fall in popularity over time, some more swiftly than others. The fastest rising topics are typically called *bursts*; e.g. "deep learning", "internet of things" and "big data". Being able to detect and track bursty terms in the literature could give insight into how scientific thought evolves over time.
